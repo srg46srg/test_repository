@@ -1,0 +1,103 @@
+added the comment to the submission in an assignement;comment_add
+assigned the role with id 5 to an user;role_5
+created a file submission and uploaded 0 file/s  in the assignment;sub_create_0
+created a file submission and uploaded 1 file/s  in the assignment;sub_create_1
+deleted the comment from the submission in an assignement;comment_del
+enrolled an user;enrolled
+"has searched the course  for forum posts containing ""Base"";searched_base"
+"has searched the course  for forum posts containing ""matrices"";searched_matrices"
+"has searched the course  for forum posts containing ""Practicas"";searched_practicas"
+"has searched the course  for forum posts containing ""stdin"";searched_stdin"
+has submitted the submission in an assignement;submission
+has uploaded a file to the submission;upload
+has viewed the discussion in the forum;view_discussion
+has viewed the submission status page for the assignment;view_submission_status
+has viewed the user report for an user;view_report
+updated a file submission and uploaded 0 file/s  in the assignment;sub_update_0
+updated a file submission and uploaded 1 file/s  in the assignment;sub_update_1
+viewed the course;view_course
+viewed the folder activity;view_folder
+viewed the forum activity;view_forum
+viewed the instance list for the module assign in the course;view_list_assignment
+viewed the instance list for the module forum in the course;view_list_forum
+viewed the list of resources in the course;view_resource
+viewed the list of users in the course;view_users
+viewed the outline report for an user;view_outline
+viewed the overview report in the gradebook;view_gradebook
+viewed the profile for an user;view_profile
+viewed the recent activity report in the course;view_activity_report
+viewed the resource activity;view_resource_activity
+viewed the section of the course;view_section
+viewed the url activity;view_URL
+viewed the user report in the gradebook;view_user_gradebook
+viewed their submission for the assignment;view_submission
+Entrega pr?ctica 1. (Prueba de entrega. No evaluable);ent_pract_0
+¿Por qu? aprender a programar?;aprender_java
+Aemet15.txt;pr_aemet
+Aeropuerto.java;pr_aeropuerto
+AgenciaMatrimonial.java;pr_agencia
+airport.dat;dt_aeropuerto
+alumnos1.txt;al_1
+alumnos2.txt;al_2
+alumnos3.txt;al_3
+AppAlumnov1.java;pr_alumnos
+Clase Polinomio;pr_polinomios
+Cuenta Dobles;pr_cuentas
+Data sets;data_sets
+Documentaci?n StdIn;stdin_doc
+Ejemplos Arrays;ej_arrays
+Ejemplos java;ej_java
+Ejemplos Versiones Ecuaci?n de segundo grado;ej_ecu
+Entrega examen de pr?cticas;ent_ex_pract
+Entrega pr?ctica 9;ent_pract_3
+Entrega pr?cticas 2, 3 y 4.;ent_pract_1
+Entrega Pr?cticas 5,6,7 y 8;ent_pract_2
+Entrega Trabajo TP6;ent_tp6
+Estad?sticas Lluvias;pr_lluvias
+Examen conv 2 sep14 con posible soluci?n;exam_2_14
+Examen conv1 ene13 con posible soluci?n;exam_1_13
+Examen conv1 ene14 con posible soluci?n;exam_1_14
+Examen conv2 sep13 con posible soluci?n;exam_2_13
+Examen conv2 sept15 con posible soluci?n;exam_2_15
+Examen TP6;exam_tp6
+Exponencial.java;pr_exponencial
+Fecha.java;pr_fecha
+FicheroHombres.txt;pr_hombres
+FicheroMueres.txt;pr_mujeres
+Fundamentos de inform?tica (2015-2016);fund_inf
+Fundamentos de inform?tica (2015-2016);fund_inf_BBBBB
+Gui?n TP6;guion_tp6
+Lecci?n 1. Conceptos b?sicos programaci?n.;lec_1
+Lecci?n 2. Programas en Java;lec_2
+Lecci?n 3. Tipos de datos, constantes y variables;lec_3
+lecci?n 4. Esquemas de composici?n algor?tmica.;lec_4
+Lecci?n 5. Estructuras de datos indexadas. Arrays.;lec_5
+Lecci?n 6. Dise?o Top-down. M?todos.;lec_6
+lecci?n 7. Ficheros.;lec_7
+lecci?n 8. Registros/TAD/Objetos;lec_8
+Lecci?n 9. B?squeda y Ordenaci?n;lec_9
+Notas pr?cticas;nota_pract
+Novedades;novedades
+Pb Imagen a fichero;pr_imagen
+Pr?ctica 1.;pr_1
+Pr?ctica 2. Esquemas de composici?n algor?tmica  I;pr_2
+Pr?ctica 3. Esquemas de composici?n algor?tmica II y tipos de datos reales.;pr_3
+Pr?ctica 4. Tratamiento de secuencias.;pr_4
+Pr?ctica 5. Estructuras de datos indexadas;pr_5
+Pr?ctica 6. Estructuras de datos indexadas II;pr_6
+Pr?ctica 7. Estructuras de datos indexadas III.;pr_7
+Pr?ctica 8. M?todos.;pr_8
+Pr?ctica 9. Ficheros/Registros/Vectores;pr_9
+Presentaci?n;presentacion
+Presentaci?n TP6;presentacion_tp6
+Problema Agencia matrimonial;enun_agencia
+Problema Ficheros.;enun_ficheros
+Problemas Ficheros Alumnos;enun_alumnos
+RaizCuadrada.java;pr_raiz
+Secuencia de Caracteres (Con librer?a StdIn);pr_sec_char
+Secuencias de enteros;pr_sec_enteros
+Soluci?n al examen TP6;sol_exam_tp6
+Soluci?n del ejercicio TP6;sol_ej_tp6
+StdIn.java;stdin_java
+Tutorial Java. (tutorials Point);tutorial_point
+Tutoriales de Java (Sun-oracle);tutorial_sun
